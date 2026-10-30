@@ -1,0 +1,14 @@
+# Операційна система та редактори
+.DS_Store
+Thumb.db
+Desktop.ini
+.vscode/
+.idea/
+
+# Залежності та артефакти збірки
+node_modules/
+__pycache__/
+*.pyc
+.venv/
+dist/
+build/
