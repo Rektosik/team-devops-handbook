@@ -18,7 +18,7 @@
 - [Гілки та коміти](docs/branching.md)
 - [Налаштування редактора та .gitignore](docs/editor-config.md)
 - [Шаблон README](docs/readme-template.md)
-- [Рецензування pull request](docs/code_review.md)
+   - [Рецензування pull request](docs/code-review.md)
 - [Розбір конфлікту злиття](docs/conflict.md)
 - 
 ## Правила роботи з репозиторієм
