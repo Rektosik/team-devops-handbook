@@ -13,6 +13,14 @@
 
 Спільний довідник, у якому описано процес командної роботи з Git.
 
+## Зміст
+
+- [Гілки та коміти](docs/branching.md)
+- [Налаштування редактора та .gitignore](docs/editor-config.md)
+- [Шаблон README](docs/readme-template.md)
+   - [Рецензування pull request](docs/code-review.md)
+- [Розбір конфлікту злиття](docs/conflict.md)
+- 
 ## Правила роботи з репозиторієм
 
 1. Прямі коміти в `main` заборонені.
